@@ -115,7 +115,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6448756904722024144}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: PrefabTrifwnas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
