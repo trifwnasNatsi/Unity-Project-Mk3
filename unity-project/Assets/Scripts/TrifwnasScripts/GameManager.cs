@@ -53,6 +53,8 @@ public class GameManager : MonoBehaviour
     {
         winCanvas.GetComponent<Canvas>().gameObject.SetActive(true);
         Time.timeScale = 0;
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.Confined;
     }
 }
 
